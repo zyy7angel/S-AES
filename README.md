@@ -19,7 +19,7 @@ Implementation and exploration of S-AES encryption algorithm
 * 加密    
    明文：`1010101010101010`;    
    密钥：`0101010101010101`;    
-   密文：`0110010001101011`.
+   密文：`0110010001101011`.    
    古渲宇组：    
    ![](https://imgur.la/images/2024/10/30/image751d1b4d14cfdf9e.png)    
    我们组：    
