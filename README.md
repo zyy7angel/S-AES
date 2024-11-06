@@ -20,10 +20,10 @@ Implementation and exploration of S-AES encryption algorithm
    明文：`1010101010101010`;    
    密钥：`0101010101010101`;    
    密文：`0110010001101011`.
-   古渲宇组：
-   ![](https://imgur.la/images/2024/10/30/image751d1b4d14cfdf9e.png)
+   古渲宇组：    
+   ![](https://imgur.la/images/2024/10/30/image751d1b4d14cfdf9e.png)    
    我们组：    
-   ![](/images/cross-encrypt.jpg)
+   ![](/images/cross-encrypt.jpg)    
 ***
 ## 第三关：扩展功能
 扩展要求：考虑到向实用性扩展，加密算法的数据输入可以是ASII编码字符串(分组为2 Bytes)，对应地输出也可以是ACII字符串(很可能是乱码)。         
